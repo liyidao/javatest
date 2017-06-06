@@ -3,6 +3,6 @@ public class JavaTest{
         String name = "Li";
         String age = "35";
         String sex = "男";
-        System.out.println(name + " " + age + sex);
+        System.out.println(name + " " + age + " " + sex);
     }    
 }
